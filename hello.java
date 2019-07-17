@@ -14,3 +14,4 @@ commit 2
 Thi this is the latest change by amit
 squash commit
 squash commit 1
+rebase commit 1
