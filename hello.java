@@ -13,4 +13,4 @@ commit 1
 commit 2
 Thi this is the latest change by amit
 squash commit
-
+squash commit 1
